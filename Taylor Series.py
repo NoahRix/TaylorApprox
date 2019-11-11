@@ -148,17 +148,3 @@ def main():
     window1 = TaylorSeries()
 
 main()
-        
-    
-
-
-
-
-
-
-
-
-
-
-
-    
